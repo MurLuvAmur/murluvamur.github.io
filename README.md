@@ -1,4 +1,3 @@
-# murluvamur.github.io
 theme: jekyll-theme-minimal
-title: Octocat's homepage
+title: Amur's homepage
 description: Bookmark this to keep an eye on my project updates!
